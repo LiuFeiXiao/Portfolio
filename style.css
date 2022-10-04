@@ -19,5 +19,3 @@ button.section0:hover { background-color: gray; color:white;}
 
 img.section2 {width: 25%; transition: 2s;}
 img.section2:hover {width: 65%;}
-
-@keyframes animateBg { 0% {background-position: 0% 0%;}; 100% {background-position: 0% 100%;}}
