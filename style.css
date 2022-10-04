@@ -1,5 +1,5 @@
 html { background-image: linear-gradient(to top left, gray,white); }
-#section1 { animation: animateBg 10s linear infinite; background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); }
+#section1 { background-image: linear-gradient(to left, gray,white); }
 #section2 { background-image: linear-gradient(to left, gray,white); }
 #section3 { background-image: linear-gradient(to left, gray,white); }
 #section4 { background-image: linear-gradient(to left, gray,white); }
